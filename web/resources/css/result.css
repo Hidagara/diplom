@@ -1,0 +1,45 @@
+.grafic
+{
+    display: inline-block;
+    background-color: #0099ff;
+    width:350px;
+    height: 250px;
+    position: relative;
+    left:50px;
+    top: 250px;
+
+}
+
+.result
+{
+    background-color: #a7b24f;
+    margin:auto;
+    width:250px;
+    height:150px;
+    position: relative;
+    left:15px;
+}
+
+.fundament
+{
+    background: grey;
+
+    width:250px;
+    height:250px;
+
+}
+
+
+.wall
+{
+    background-color: red;
+    width:500px;
+    hegiht:150px;
+}
+
+.roof
+{
+    
+    background-color:red;
+    
+}
