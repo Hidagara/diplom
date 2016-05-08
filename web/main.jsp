@@ -50,7 +50,7 @@
 <header>
     <ul>
         <li><a href="main.jsp"><img id="logo" src="resources/img/home.png"/> </a></li>
-       <li id="vhod"> <a href="/view/user.jsp"> <%  out.print(login==null ? " " : login);          %></a> </li>
+       <li id="vhod"> <a href="/view/userDashboard.jsp"> <%  out.print(login==null ? " " : login);          %></a> </li>
 
     </ul>
 </header>
@@ -97,7 +97,7 @@
 
 
 
-<form action="view/user.jsp" method="post">
+<form action="view/userDashboard.jsp" method="post">
 
     <button class="mybutton" type="submit" >Приступить к работе</button>
 </form>
