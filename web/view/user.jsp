@@ -59,6 +59,7 @@
         <div class="arrow"></div>
         <a href="/view/admin/users.jsp">Управление пользователями <span id="icon" class="octicon octicon-person"></span></a>
         <a href="/view/admin/stats.jsp">Статистика <span id="icon" class="octicon octicon-graph"></span></a>
+        <a href="/view/admin/monitor.jsp">Мониторинг <span id="icon" class="octicon octicon-graph"></span></a>
         <a href="/view/admin/uploads.jsp">Управление загрузками <span id="icon" class="octicon octicon-cloud-upload"></span></a>
 
        <!-- <a href="#">Edit Slider <span id="icon" class="octicon octicon-pencil"></span></a> -->

@@ -10,7 +10,7 @@ import java.io.IOException;
 /**
  * Created by hidagara on 24.04.2016.
  */
-@WebFilter(filterName = "AuthFilter" /*, urlPatterns = "/view*//*"*/)
+@WebFilter(filterName = "AuthFilter" , urlPatterns = "/view*//*")
 public class AuthFilter implements Filter {
     public void destroy() {
     }

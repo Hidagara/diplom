@@ -29,7 +29,9 @@
         <ul class="cartWrap">
              
             
-            <jsp:include page="/proj_info"></jsp:include>
+            <jsp:include page="/proj_info">
+
+            </jsp:include>
 
 
 
